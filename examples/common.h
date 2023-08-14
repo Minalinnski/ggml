@@ -7,6 +7,7 @@
 #include <vector>
 #include <random>
 #include <thread>
+#include <mingw.thread.h>
 
 #define COMMON_SAMPLE_RATE 16000
 
